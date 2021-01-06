@@ -3,6 +3,10 @@ body {
   margin: 0 10%;
 }
 
+.header {
+  text-align: center;
+}
+
 .container {
   border: 2px solid gray;
   padding: 10px;
